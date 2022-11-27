@@ -5,7 +5,7 @@ using namespace std;
 // Condition: A tringle is valid if A+B>C and B+C>A and C+A>B
 // Brute Force Method
 int main() {
-  // << endl or '/n'; done se next line or new line me jata hai.
+  
   int A, B, C;
   A = 20;
   B = 60;
